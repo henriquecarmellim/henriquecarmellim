@@ -17,7 +17,7 @@ Check out my learning progress in terms of study time for JavaScript and Java/Ko
 
 Stay tuned for exciting projects showcasing my coding journey. From web applications to Java-based software, I'm always eager to apply what I've learned.
 
-![HenriqueCarmellim Status](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecarmellim&show_icons=true&theme=transparent)
+![HenriqueCarmellim Status](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecarmellim&show_icons=true&theme=shadow_red)
 
 ## Connect with Me
 
