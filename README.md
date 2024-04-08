@@ -1,27 +1,29 @@
-# Welcome to Henrique Carmellim Coding Journey! 👋
+# Bem-vindo à Jornada de Henrique Carmellim! 👋
 
-## About Me
+## Sobre Mim
 
-Hey there! I'm Henrique Carmellim, a passionate programming enthusiast with one year of experience in the world of coding. My main languages of choice are JavaScript and Java.
+Eu sou Henrique Carmellim, um entusiasta da programação apaixonado com alguns anos de experiência no mundo da programação. Minhas principais linguagens de escolha são JavaScript/TypeScript e de linguagem secundaria Java.
 
-## What I Do
+## O Que Eu Faço
 
-- 💻 I primarily code in JavaScript, exploring the vast possibilities of web development.
-- ☕ Learning Java to broaden my programming skills and delve into versatile application development.
+- 💻 Eu programo principalmente em TypeScript/JavaScript, explorando as vastas possibilidades do desenvolvimento.
+- ☕ Aprendendo Java para ampliar minhas habilidades de programação e mergulhar no desenvolvimento de aplicativos versáteis.
 
-## Learning Progress
+## Progresso de Aprendizado
 
-Check out my learning progress in terms of study time for JavaScript and Java/Kotlin:
+Confira meu progresso de aprendizado em termos de tempo de estudo para JavaScript e Java/Kotlin:
 
-## Projects
+![Status de HenriqueCarmellim](https://github-readme-stats.vercel.app/api?username=henriquecarmellim&show_icons=true&theme=shadow_red)
 
-Stay tuned for exciting projects showcasing my coding journey. From web applications to Java-based software, I'm always eager to apply what I've learned.
+## Projetos
 
-![HenriqueCarmellim Status](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecarmellim&show_icons=true&theme=shadow_red)
+Fique ligado para projetos empolgantes que mostram minha jornada de programação. De aplicações web a software baseado em Java, JavaScript/TypeScript estou sempre ansioso para aplicar o que aprendi.
 
-## Connect with Me
+![Status de HenriqueCarmellim](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecarmellim&show_icons=true&theme=shadow_red)
 
-Let's connect and share our coding experiences. Feel free to reach out:
+## Conecte-se Comigo
+
+Vamos nos conectar e compartilhar nossas experiências de programação. Sinta-se à vontade para entrar em contato:
 - Henriquecarmellim@gmail.com
   
 Happy coding! 🚀
