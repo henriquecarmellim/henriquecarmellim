@@ -26,6 +26,6 @@ Fique ligado nos projetos empolgantes que mostram minha jornada como desenvolved
 
 Vamos nos conectar e compartilhar nossas experiências de programação. Sinta-se à vontade para entrar em contato:
 - **Email:** [henriquecarmellim@gmail.com](mailto:henriquecarmellim@gmail.com)
-- **Discord:** [HenriqueCarmellim#1234](https://discord.com/channels/@me/1115703298947825767)
+- **Discord:** [.gxoterror](https://discord.com/channels/@me/1115703298947825767)
   
 Happy coding! 🚀
